@@ -1,14 +1,22 @@
-Functionalities Implemented-
+Functionalities-
 
+<ol>
+  <li>Splash Screen</li>
+  <li>Product Listing Screen -Scrollable, Refreshable</li>
+  <li>Search Product</li>
+  <li>Add Product- with name, type, price, tax, and Image</li>
+  <li>Offline Caching using Room DataBase</li>
+  <li>Internet Connectivity</li>
+  <li>BottomSheetDailog Fragment for Add Product Screen</li>
+  <li>Progress Bar	</li>
+</ol>
 Splash Screen
-Product Listing Screen -Scrollable, Refreshable
-Search Product
-Add Product- with name, type, price, tax, and Image
-Offline Caching using Room DataBase
-Internet Connectivity
-BottomSheetDailog Fragment for Add Product Screen
-Progress Bar 	
-Tech Stack - Android Studio, Java, XML, Room DB, Lottie Animation, Retrofit, HTTP Get and          Post Method
+
+
+
+
+
+<h3>Tech Stack </h3>- Android Studio, Java, XML, Room DB, Lottie Animation, Retrofit, HTTP Get and          Post Method
 
 Extra- 
 Follow MVVM architecture, Retrofit for Rest
@@ -25,8 +33,11 @@ Sample Images-
 
 How to Run the App
 
+<ol>
+  <li>Open the GitHub Repository</li>
+<li>Download the source code </li>
+<li>Open in Android Studio</li>
+<li>Run on your phone or emulator</li>
 
-Open the GitHub Repository
-Download the source code 
-Open in Android Studio
-Run on your phone or emulator
+
+</ol>
